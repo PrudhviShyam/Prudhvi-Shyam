@@ -27,13 +27,11 @@ I'm a results-driven professional with 3+ years of experience in customer suppor
 ## 📌 Projects & Repositories
 
 - [Resume (PDF)](Prudhvi_Shyam_Opeations_Executive.pdf)
-- [Support Playbook – Common Troubleshooting Steps](https://github.com/yourusername/support-playbook)  
-- [Learning GitHub: My Practice Repos](https://github.com/prudhvi-shyam/github-practice)
 
 ---
 
 ## 📫 Let's Connect
-n
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prudhvi-shyam-300793241/)  
 - 📧 prudhvishyam1@gmail.com  
 - 🌍 Hyderabad, Telangana, India  
