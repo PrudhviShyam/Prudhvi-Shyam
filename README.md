@@ -18,7 +18,7 @@ I'm a results-driven professional with 3+ years of experience in customer suppor
 ## 🧠 Skills Snapshot
 
 - **Tech Support Tools:** AnyDesk, TeamViewer, Zoho Assist  
-- **CRM & Platforms:** Salesforce (basics), Freshdesk, LMS  
+- **CRM & Platforms:** Salesforce (basics), Teamwork desk, LMS  
 - **Operations:** Attendance & performance tracking, coordination, backend support  
 - **Soft Skills:** Empathy, communication, team collaboration  
 
@@ -26,17 +26,17 @@ I'm a results-driven professional with 3+ years of experience in customer suppor
 
 ## 📌 Projects & Repositories
 
-- [Resume (PDF)]()  
+- [Resume (PDF)](Prudhvi_Shyam_Opeations_Executive.pdf)
 - [Support Playbook – Common Troubleshooting Steps](https://github.com/yourusername/support-playbook)  
-- [Learning GitHub: My Practice Repos](https://github.com/yourusername/github-practice)
+- [Learning GitHub: My Practice Repos](https://github.com/prudhvi-shyam/github-practice)
 
 ---
 
 ## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 📧 prudhvishyam@example.com  
-- 🌍 Hyderabad, India  
+n
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prudhvi-shyam-300793241/)  
+- 📧 prudhvishyam1@gmail.com  
+- 🌍 Hyderabad, Telangana, India  
 
 ---
 
