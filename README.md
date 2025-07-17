@@ -16,8 +16,7 @@ I'm a results-driven professional with 3+ years of experience in customer suppor
 ---
 
 ## 🧠 Skills Snapshot
-
-- **Tech Support Tools:** AnyDesk, TeamViewer, Zoho Assist  
+- **Technical Support:** Tech Mahindra Internal Tools
 - **CRM & Platforms:** Salesforce (basics), Teamwork desk, LMS  
 - **Operations:** Attendance & performance tracking, coordination, backend support  
 - **Soft Skills:** Empathy, communication, team collaboration  
